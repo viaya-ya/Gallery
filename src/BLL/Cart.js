@@ -326,7 +326,7 @@ const cartSlice = createSlice({
       },
       {
         id:2,
-        name: "Шииргин Алексей",
+        name: "Ширгин Алексей",
         avatar: noAvatar,
         description: "Дизайнер сайта"
       },
